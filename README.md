@@ -1,8 +1,12 @@
 Housing pricing prediction model![image](https://user-images.githubusercontent.com/73349817/193399948-c4803853-e379-4c67-8e56-553dc3495956.png)
 Overview![image](https://user-images.githubusercontent.com/73349817/193399955-763d374b-707b-4d30-9441-db2a71744162.png)
+
 Since real estate investing is one of the top performing industries globally, there is a lot of interest in figuring out what factors should be taken into account before making a real estate investment. As a result, this study goes further to investigate the variables that drive housing prices to fluctuate, a choice that has an impact on stakeholders and homebuyers or tenants. Because of this, house price modelling will assist both stakeholders and tenants in making wise judgments and in determining the precise costs associated with investing in real estate or the price of a home, regardless of the services offered. As a result, this will benefit everyone, including stakeholders, as well as the government, which will benefit from knowing how the economy is doing.
 
 ![image](https://user-images.githubusercontent.com/73349817/193399963-5d9aeb54-2a79-4fcc-9826-3e721724d715.png)
 Business Understanding![image](https://user-images.githubusercontent.com/73349817/193399976-2630f061-c356-4806-9b73-a1b65035d00a.png)
 Here, a data scientist's responsibility is to find out what factors are most likely to have an impact on home prices. They also look closely at how the variables affect home prices and how much they will impact the stakeholders in the housing market. This is really important because before real estate investors make a decision, they need think about whether the investment will be profitable or not. Data scientists are consequently required to conduct important evaluations and analyses to identify the crucial variables and their influence on investment decisions. Instead of repeatedly going through the process, after careful study, a predictive model that will be utilized to assist new investors entering the market should be constructed.
 ![image](https://user-images.githubusercontent.com/73349817/193399984-c453d0eb-57d5-4c4e-859e-d3c1f6bcd4b4.png)
+Data Understanding and Analysis![image](https://user-images.githubusercontent.com/73349817/193400053-256b7974-3827-4f99-967e-3ee1f776d92e.png)
+Secondary data from King County House Sales has been employed to be used in this project as "kc_house_data.scv".
+![image](https://user-images.githubusercontent.com/73349817/193400093-0ebadd02-c353-43ac-830f-eeed9f354ae8.png)
